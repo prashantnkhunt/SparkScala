@@ -10,10 +10,10 @@ Spark Transformations
 
 Spark Actions
 
-[Spark RDD Example – Creating RDD using Scala]
+Spark RDD Example – Creating RDD using Scala
 
-[Spark Filter]
+Spark Filter
 
-[Spark Joins]
+Spark Joins
 
-[Passing Function to Spark]
+Passing Function to Spark
